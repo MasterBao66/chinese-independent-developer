@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 6 号添加
 
+#### 萝卜(杭州) - [WheelPage](https://wheelpage.com/)
+* :white_check_mark: [抛骰子](https://wheelpage.com/dice-roller/)：3D 抛骰子网站，支持多种类型骰子
+
 #### SignalTo Team
 * :white_check_mark: [SignalTo](https://signalto.io/)：TradingView webhook 提醒转发工具，将策略警报自动发送到 Telegram、Discord 和飞书，支持自动重试、投递日志和去重
 
